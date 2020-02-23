@@ -4,6 +4,10 @@ date: 2020-02-22T12:51:03-07:00
 draft: false
 ---
 
+### Summary
+------------------------------
+- I enjoy using tech to help make data driven production decisions. And strive for solutions that are simple but not always easy. 
+
 ### Tech Expertise
 ------------------------------
 - Languages: JavaScript, Go, Rust
@@ -14,10 +18,6 @@ draft: false
 - Software: RabbitMQ, Kinesis, Kubernetes, Docker
 - Build systems: CircleCI, Jenkins
 - Cloud: AWS, Heroku
-
-### Summary
-------------------------------
-- I enjoy using tech to help make data driven production decisions. And strive for solutions that are simple but not always easy. 
 
 ## Professional Experience
 --------------------------------------------
