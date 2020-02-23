@@ -4,42 +4,33 @@ date: 2020-02-22T12:51:03-07:00
 draft: false
 ---
 
-### Tech
+### Tech Expertise
 ------------------------------
-- Databases : PostGres , MongoDB, Cassandra
+- Languages: JavaScript, Go, Rust
+- Databases SQL: PostGres
+- Databases NoSQL: Redis, MongoDB, Cassandra
 - Data Warehouse: Redshift
-- Programming: NodeJS, Go, Rust
 - API Frameworks: GraphQL, Rest
-- Frameworks: RabbitMQ, Redis, Kinesis, k8s, Docker
-- Build system: CircleCI
-- Load balancing: nginx, ELBs
+- Software: RabbitMQ, Kinesis, Kubernetes, Docker
+- Build systems: CircleCI, Jenkins
+- Cloud: AWS, Heroku
 
 ### Summary
 ------------------------------
-- Data Engineering
-- Scaled an engineering team from a few engineers to over 20 direct reports.
-- Implemented best engineering practices and hands on with code everyday.
-- Presented to many different clients on how to integrate with our tech and how we integrate with theirs and demonstrated best practices and recommendations.
-- Successfully integrated many 3rd parties companies with our tech for order purchasing, inventory, products, etc.
-- Technically lead the company with best practices for building distributed services.
-- Emphasized resilient code and architecture by demonstrating good practices with code committed to production.
-- Managed IT budgets , burn downs and cost projections from hiring new employees to bringing on new clients.
-- Message/Event Driven Architecture
-
+- I enjoy using tech to help make data driven production decisions. And strive for solutions that are simple but not always easy. 
 
 ## Professional Experience
 --------------------------------------------
 
 **Principal Engineer** [Sibi](https://www.linkedin.com/company/therealsibi/about/) March 2018 - Current
-- Built an event drive system for our ordering platform.
+- Built an event drive system for our ordering platform. That handles millions of dollars in revenue annually.
+- Lead all aspects of engineering from DevOps to Data Engineering, including product delivery teams.
 - Scaled an engineering team from a few engineers to over 20 direct reports.
-- Implemented best engineering practices and was hands on with code everyday.
-- Moved the tech organization from 3rd party hosting to the cloud.
-- Presentationed to many different clients on how to integrate with our tech and how we integrate with theirs. 
 - Successfully integrated many 3rd parties companies with our tech for order purchasing, inventory, products, etc.
 - Emphasized resilient code and architecture by demonstrating good practices with code committed to production. 
 - Managed IT budgets , burn rates from hiring new employees to bringing on new clients.
-- Advised our integration partners on how to effectively modernize their tech
+- Advised our integration partners on how to effectively modernize their tech.
+- Built a data ingestion platform using different tech including RedShift, Go, Kinesis and more.
 
 **Lead Software Engineer** [Remarkable Health](https://remarkablehealth.com/) January 2018 - April 2018
 - Lead a team of engineers for building services in nodejs, from apis to services.
