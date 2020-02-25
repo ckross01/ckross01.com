@@ -10,11 +10,11 @@ draft: false
 
 ### Tech Expertise
 ------------------------------
-- Languages: JavaScript, Go, Rust
-- Databases SQL: PostGres
+- Languages: JavaScript, Go, Rust, Python, Scala
+- Databases SQL: PostgreSQL
 - Databases NoSQL: Redis, MongoDB, Cassandra
 - Data Warehouse: Redshift
-- API Frameworks: GraphQL, Rest
+- API Frameworks: GraphQL, Express, Restify
 - Software: RabbitMQ, Kinesis, Kubernetes, Docker
 - Build systems: CircleCI, Jenkins
 - Cloud: AWS, Heroku
@@ -46,6 +46,12 @@ draft: false
 - Writing comprehensive unit tests (ava)
 - Distributed Services using RabbitMQ and Redis
 
+**Senior Consultant** [Neudesic](https://www.neudesic.com/) August 2011 - October 2014
+- Web developer for a food distributor, I helped create an order and inventory management app to help customers and sales reps be more efficient at managing their sales, orders and inventory. The internal site was very well received by both user types and the team worked directly with users to take feedback to deliver the best possible solution. My role was developing the internal web page, design, including fullstack development. Also, helped solve the problem of offline viewing of inventory of orders. Worked with the team to implement a node.js solution to several hundred users.
+
+**Consultant** [Sogeti](https://www.sogeti.com/)  April 2010 - August 2011
+- The project was to upgrade to the new HIPAA 5010 standard, including merging all existing processes to the process. The team and I created a custom X12 parser to help read in the notoriously challenging X12 files. I integrated the current system with MQSC for reliable messaging but also integrated with legacy systems that ran IBM WebSphere. Working with custom xml schema in order to meet new standards provided additional challenges.
+
 **Operations Analyst** 2Wire September 2007-April 2010
 - Tasked to help management with development requests.
 - Created a Call Timer app to be used across multiple call centers.
@@ -59,5 +65,3 @@ draft: false
 ## Education
 ------------
 **Bachelors in Software Engineering Technology** (2007-2010)
-- 3.75 GPA, Graduated top of class for software engineering technology 
-- Built a resume editor for end of degree project (capstone) and presented the project to alumni, dean and faculty.
